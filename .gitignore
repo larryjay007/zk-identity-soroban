@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.next/
+
+# Rust / Soroban
+target/
+
+# Noir
+*.gz
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
